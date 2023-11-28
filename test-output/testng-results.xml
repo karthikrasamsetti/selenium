@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-27T12:37:35 IST" name="Default Suite" finished-at="2023-11-27T12:37:35 IST" duration-ms="632">
+  <suite started-at="2023-11-28T10:35:34 IST" name="Default Suite" finished-at="2023-11-28T10:35:36 IST" duration-ms="1756">
     <groups>
     </groups>
-    <test started-at="2023-11-27T12:37:35 IST" name="javaSelenium" finished-at="2023-11-27T12:37:35 IST" duration-ms="632">
+    <test started-at="2023-11-28T10:35:34 IST" name="javaSelenium" finished-at="2023-11-28T10:35:36 IST" duration-ms="1756">
       <class name="com.base.WebTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.base.WebTest@49964d75]" started-at="2023-11-27T12:37:29 IST" name="setUp" finished-at="2023-11-27T12:37:35 IST" duration-ms="5529" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.base.WebTest@2c4d1ac]" started-at="2023-11-28T10:35:25 IST" name="setUp" finished-at="2023-11-28T10:35:34 IST" duration-ms="8683" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="beforeConditions()[pri:0, instance:com.base.WebTest@49964d75]" started-at="2023-11-27T12:37:35 IST" name="beforeConditions" finished-at="2023-11-27T12:37:35 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeConditions()[pri:0, instance:com.base.WebTest@2c4d1ac]" started-at="2023-11-28T10:35:34 IST" name="beforeConditions" finished-at="2023-11-28T10:35:34 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeConditions -->
-        <test-method signature="login()[pri:0, instance:com.base.WebTest@49964d75]" started-at="2023-11-27T12:37:35 IST" name="login" finished-at="2023-11-27T12:37:35 IST" duration-ms="587" status="PASS">
+        <test-method signature="login()[pri:0, instance:com.base.WebTest@2c4d1ac]" started-at="2023-11-28T10:35:34 IST" name="login" finished-at="2023-11-28T10:35:36 IST" duration-ms="1721" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.base.WebTest@49964d75]" started-at="2023-11-27T12:37:36 IST" name="tearDown" finished-at="2023-11-27T12:37:36 IST" duration-ms="216" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.base.WebTest@2c4d1ac]" started-at="2023-11-28T10:35:36 IST" name="tearDown" finished-at="2023-11-28T10:35:36 IST" duration-ms="292" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
